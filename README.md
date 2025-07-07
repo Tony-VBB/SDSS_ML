@@ -8,3 +8,6 @@ copy first half of files and second half of files to a single folder and run
 
 
 ALL the models are implemented in sdss "machine learning project" file best models are saved as pickle files and copied to web page folder.
+
+download the datset from below link
+https://www.kaggle.com/datasets/bryancimo/sdss-galaxy-classification-dr18
